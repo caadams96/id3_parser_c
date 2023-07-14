@@ -1,0 +1,3 @@
+C:/Users/corey/CLionProjects/id3_parser_c/cmake-build-debug/CMakeFiles/id3_parser_c.dir
+C:/Users/corey/CLionProjects/id3_parser_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/corey/CLionProjects/id3_parser_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
